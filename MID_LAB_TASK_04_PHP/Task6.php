@@ -12,5 +12,10 @@ echo "American is there inside the array";}
 else
 	{ echo "American is not there ";}
 
-
+  
+foreach ($student  => $value) {
+    echo ".value = ";
+     
+}
+  
 ?>
