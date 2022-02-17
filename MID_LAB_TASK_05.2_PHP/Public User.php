@@ -6,19 +6,16 @@
 <body>
 	<table border="1">
 		<tr>
-			<td>Public User</td>
-			<td>Punlic Home</td>
+			<td rowspan="4">Public User</td>
+			<td>Public Home</td>
 		</tr>
 		<tr>
-			<td></td>
 			<td>Registration</td>
 		</tr>
 		<tr>
-			<td></td>
 			<td>Login</td>
 		</tr>
 		<tr>
-			<td></td>
 			<td>Forgot Password</td>
 		</tr>
 
